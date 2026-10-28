@@ -1,0 +1,21 @@
+{
+  "name": "Have a look",
+  "short_name": "Have a look",
+  "description": "Wearable Environmental Awareness & Assistive Vision AI for sunglasses, watches, and hearables.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#06b6d4",
+  "icons": [
+    {
+      "src": "https://images.unsplash.com/photo-1508296695146-257a814070b4?auto=format&fit=crop&w=192&q=80",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1508296695146-257a814070b4?auto=format&fit=crop&w=512&q=512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

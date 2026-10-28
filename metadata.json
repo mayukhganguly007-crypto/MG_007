@@ -1,0 +1,11 @@
+{
+  "name": "Have a look",
+  "description": "Wearable & companion assistive AI for sunglasses, smartwatches, and hearables providing real-time audio descriptions, obstacle alerts, and facial recognition.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
